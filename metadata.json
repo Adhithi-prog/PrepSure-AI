@@ -1,0 +1,6 @@
+{
+  "name": "PrepSure AI",
+  "description": "Swasth & Samavesh Bharat - AI healthcare instruction simplifier, multilingual checklists, understanding quizzes, and accessible appointment preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
